@@ -1,0 +1,213 @@
+
+
+header{
+    background-color: black;
+    padding: 5px;
+    text-align: center;
+    position: fixed ;
+    width: 100%;
+    z-index: 1;
+    top: 0px;
+    left: 0px;
+        
+    
+}
+header h1{
+    color: white;
+    border: 8px solid white;
+    padding: 6px 12px;
+    display: inline-block;
+    border-radius: 10px;
+}
+ .box .icon
+{
+    color: black;
+    min-width: 40px;
+    height: 40px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    font-size: 22px;
+    position: fixed;
+    top: 40px;
+    left: 30px;
+    text-decoration: none;
+}
+body
+{
+    background-image: url("/Muscle Posh/Workout/img/799406.jpg");
+}
+.banner .Back p
+{
+    color: rgb(0, 0, 0);
+}
+.banner .Back h2
+{
+    text-decoration:underline;
+    color: rgb(0, 0, 0);
+}
+.banner .Back
+{
+    position: relative;
+    top: 150px;
+    text-align: center;
+    margin: 10px;
+    font-size: 18px;
+   
+}
+.banner .Back h2{
+    position: relative;
+    left :-600px;
+    top: 60px;
+    font-family: Arial;
+    font-size: 28px;
+    
+   
+  
+
+}
+.banner .Deadlift
+{
+    position: relative;
+    top: 200px;
+    left: 20px;
+    margin: 50px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #F4F4F4;
+    padding: 40px 20px;
+}
+.banner .first
+{
+   width: 40%;
+   position: relative;
+  
+   
+   
+}
+.Deadlift h1{
+    color: rgb(11, 13, 97);
+}
+.Deadlift p{
+    text-align: center;
+}
+.images
+{
+    text-align: center;
+    margin: 80px 0px;
+    white-space: nowrap;
+}
+.images li{
+    display: inline-block;
+    width: 40%;
+    margin: 20px 5%;
+}
+.images li img{
+    max-width: 100%;
+}
+.images .second
+{
+    width: 140%;
+
+}
+.Pull-Up
+{
+    position: relative;
+    top: 180px;
+    left: 20px;
+    margin: 50px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #F4F4F4;
+    padding: 40px 20px;
+    
+
+}
+.Pull-Up h1
+{
+    color: rgb(15, 17, 117);
+}
+.Pull-Up1
+{
+   width: 40%;
+   position: relative;
+
+}
+.images .third
+{
+    width: 90%;
+}
+.T-Bar 
+{
+    position: relative;
+    top: 120px;
+    left: 20px;
+    margin: 50px;
+    margin-top: 90px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #F4F4F4;
+    padding: 60px 20px;
+
+}
+.T-Bar h1
+{
+    color: rgb(15, 17, 117);
+}
+.T-Bar .fourth
+{
+    width: 30%;
+    
+}
+.T-Bar .images
+{
+    width: 90%;
+}
+.Single-Arm
+{
+    position: relative;
+    top: 100px;
+    left: 20px;
+    margin: 50px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #F4F4F4;
+    padding: 40px 20px;
+
+}
+.Single-Arm h1
+{
+    color: rgb(15, 17, 117);
+}
+.Single-Arm .fifth
+{
+    width: 40%;
+    top: 80px;
+    margin: 20px;
+}
+.Pull-Down
+{
+    position: relative;
+    top: 80px;
+    left: 20px;
+    margin: 50px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #F4F4F4;
+    padding: 40px 20px;
+
+}
+.Pull-Down h1
+{
+    color: rgb(15, 17, 117);
+}
+.Pull-Down .sixth
+{
+    width: 45%;
+}
+.Pull-Down .seven
+{
+    width: 40%;
+}

@@ -1,0 +1,208 @@
+
+
+header{
+    background-color: black;
+    padding: 5px;
+    text-align: center;
+    position: fixed ;
+    width: 100%;
+    z-index: 1;
+    top: 0px;
+    left: 0px;
+        
+    
+}
+header h1{
+    color: white;
+    border: 8px solid white;
+    padding: 6px 12px;
+    display: inline-block;
+    border-radius: 10px;
+}
+ .box .icon
+{
+    color: black;
+    min-width: 40px;
+    height: 40px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    font-size: 22px;
+    position: fixed;
+    top: 40px;
+    left: 30px;
+    text-decoration: none;
+}
+body
+{
+    background-image: url("/Muscle Posh/Workout/img/799406.jpg");
+}
+.banner .Arms p
+{
+    color: rgb(0, 0, 0);
+}
+.banner .Arms h2
+{
+    color: #000000;
+    text-decoration: underline;
+}
+
+.banner .Arms
+{
+    position: relative;
+    top: 150px;
+    text-align: center;
+    margin: 10px;
+    font-size: 18px;
+   
+}
+.banner .Arms h2{
+    position: relative;
+    left :-580px;
+    top: 60px;
+    font-family: Arial;
+    font-size: 28px;
+
+
+}
+.banner .Close-Grip
+{
+    position: relative;
+    top: 200px;
+    left: 20px;
+    margin: 50px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #F4F4F4;
+    padding: 40px 20px;
+}
+.Close-Grip h1{
+    color: rgb(11, 13, 97);
+}
+.Close-Grip p{
+    text-align: center;
+}
+.Close-Grip .Close-Grip1
+{
+    width: 50%;
+}
+
+.images
+{
+    text-align: center;
+    margin: 80px 0px;
+    white-space: nowrap;
+}
+.images li{
+    display: inline-block;
+    width: 40%;
+    margin: 20px 5%;
+}
+.images li img{
+    max-width: 100%;
+}
+.images .second
+{
+    width: 60%;
+
+}
+.EZ-Bar
+{
+    position: relative;
+    top: 180px;
+    left: 20px;
+    margin: 50px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #F4F4F4;
+    padding: 40px 20px;
+    
+
+}
+.EZ-Bar h1
+{
+    color: rgb(15, 17, 117);
+}
+.EZ-Bar .EZ-Bar1
+{
+    width: 30%;
+    
+}
+.EZ-Bar .EZ-Bar2
+{
+    width: 90%;
+}
+.Hammer-Curls
+{
+    position: relative;
+    top: 120px;
+    left: 20px;
+    margin: 50px;
+    margin-top: 90px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #F4F4F4;
+    padding: 60px 20px;
+
+}
+
+.Hammer-Curls h1
+{
+    color: rgb(15, 17, 117);
+}
+.Hammer-Curls .Hammer-Curls1
+{
+    width: 50%;
+}
+.Hammer-Curls .Hammer-Curls2
+{
+    height: 300px;
+}
+
+.Push-Down
+{
+    position: relative;
+    top: 100px;
+    left: 20px;
+    margin: 50px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #F4F4F4;
+    padding: 40px 20px;
+
+}
+.Push-Down h1
+{
+    color: rgb(15, 17, 117);
+}
+.Push-Down .Push-Down1
+{
+    width: 30%;
+}
+.Push-Down .Push-Down2
+{
+    height: 350px;
+}
+.Bar-Skullcrusher
+{
+    position: relative;
+    top: 80px;
+    left: 20px;
+    margin: 50px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #F4F4F4;
+    padding: 40px 20px;
+
+}
+.Bar-Skullcrusher h1
+{
+    color: rgb(15, 17, 117);
+}
+.Bar-Skullcrusher .Bar-Skullcrusher1
+{
+    width: 50%;
+}
+

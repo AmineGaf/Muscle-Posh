@@ -1,0 +1,113 @@
+header{
+    background-color: black;
+    padding: 5px;
+    text-align: center;
+    position: fixed ;
+    width: 100%;
+    z-index: 1;
+    top: 0px;
+    left: 0px;
+        
+    
+}
+header h1{
+    color: white;
+    border: 8px solid white;
+    padding: 6px 12px;
+    display: inline-block;
+    border-radius: 10px;
+}
+ .box .icon
+{
+    color: black;
+    min-width: 40px;
+    height: 40px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    font-size: 22px;
+    position: fixed;
+    top: 40px;
+    left: 30px;
+    text-decoration: none;
+}
+body
+{
+    background-color: #ADD8E6;
+   
+}
+.meals 
+{
+    position: relative;
+    top: 130px;
+    left: 20px;
+    
+}
+.meals h1
+{
+
+    font-size:xx-large;
+}
+.meals .title
+{
+    text-decoration:underline;
+    text-decoration-style: dashed;
+    text-decoration-color:darkgoldenrod ;
+}
+.meals p
+{
+    text-decoration:dashed;
+    font-size: x-large;
+    
+}
+.meals .meals1
+{
+    position: relative;
+    height: 500px;
+    width: 800px;
+}
+.meals .focus
+{
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    color:navy;
+    font-size: xx-large;
+}
+.meals .food
+{
+    background-color: #fff;
+    padding: 5px;
+    width: 1300px;
+
+}
+.meals .food li
+{
+   position: relative;
+   left: 50px;
+   
+}
+.meals .food1
+{
+    background-color: #fff;
+    padding: 5px;
+    width: 1400px;
+
+}
+.meals .food1 li
+{
+   position: relative;
+   left: 50px;   
+}
+.meals .food2 li
+{
+    font-size: 23px;
+    margin-top: 10px;
+    
+}
+.meals .food2 li .title
+{
+    text-decoration: underline;
+    color:rgb(198, 166, 123);
+}

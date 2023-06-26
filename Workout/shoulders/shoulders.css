@@ -1,0 +1,213 @@
+
+
+header{
+    background-color: black;
+    padding: 5px;
+    text-align: center;
+    position: fixed ;
+    width: 100%;
+    z-index: 1;
+    top: 0px;
+    left: 0px;
+        
+    
+}
+header h1{
+    color: white;
+    border: 8px solid white;
+    padding: 6px 12px;
+    display: inline-block;
+    border-radius: 10px;
+}
+ .box .icon
+{
+    color: black;
+    min-width: 40px;
+    height: 40px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    font-size: 22px;
+    position: fixed;
+    top: 40px;
+    left: 30px;
+    text-decoration: none;
+}
+body
+{
+    background-image: url("/Muscle Posh/Workout/img/799406.jpg");
+}
+.banner .shoulders p
+{
+    color: rgb(0, 0, 0);
+}
+.banner .shoulders h2
+{
+    color: #000000;
+    text-decoration: underline;
+}
+
+.banner .shoulders
+{
+    position: relative;
+    top: 150px;
+    text-align: center;
+    margin: 10px;
+    font-size: 18px;
+   
+}
+.banner .shoulders h2{
+    position: relative;
+    left :-550px;
+    top: 60px;
+    font-family: Arial;
+    font-size: 28px;
+    
+   
+  
+
+}
+.banner .Push-Press
+{
+    position: relative;
+    top: 200px;
+    left: 20px;
+    margin: 50px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #F4F4F4;
+    padding: 40px 20px;
+}
+
+.Push-Press .Push-Press1
+{
+    width: 120%;
+}
+.Push-Press h1{
+    color: rgb(11, 13, 97);
+}
+.Push-Press p{
+    text-align: center;
+}
+.images
+{
+    text-align: center;
+    margin: 80px 0px;
+    white-space: nowrap;
+}
+.images li{
+    display: inline-block;
+    width: 40%;
+    margin: 20px 5%;
+}
+.images li img{
+    max-width: 100%;
+}
+.images .second
+{
+    width: 60%;
+
+}
+.Dumbbell-Press
+{
+    position: relative;
+    top: 180px;
+    left: 20px;
+    margin: 50px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #F4F4F4;
+    padding: 40px 20px;
+    
+
+}
+.Dumbbell-Press h1
+{
+    color: rgb(15, 17, 117);
+}
+.Dumbbell-Press .Dumbbell-Press1
+{
+    width: 50%;
+}
+.Dumbbell-Press .Dumbbel1
+{
+    width: 220%;
+    height: 350px;
+
+}
+
+.Upright-Row
+{
+    position: relative;
+    top: 120px;
+    left: 20px;
+    margin: 50px;
+    margin-top: 90px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #F4F4F4;
+    padding: 60px 20px;
+
+}
+.Upright-Row h1
+{
+    color: rgb(15, 17, 117);
+}
+.Upright-Row .Upright-Row1
+{
+    width: 80%;
+}
+
+.Lateral-Raise
+{
+    position: relative;
+    top: 100px;
+    left: 20px;
+    margin: 50px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #F4F4F4;
+    padding: 40px 20px;
+
+}
+.Lateral-Raise h1
+{
+    color: rgb(15, 17, 117);
+}
+.Lateral-Raise .Lateral-Raise1
+{
+    width: 200%;
+    height: 400px;
+}
+.Lateral-Raise .Lateral-Raise2
+{
+    width: 80%;
+}
+
+.Face-Pull
+{
+    position: relative;
+    top: 80px;
+    left: 20px;
+    margin: 50px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #F4F4F4;
+    padding: 40px 20px;
+
+}
+
+.Face-Pullh1
+{
+    color: rgb(15, 17, 117);
+}
+.Face-Pull .Face-Pull1
+{
+   width: 50%; 
+}
+.Face-Pull .Face-Pull2
+{
+    width: 90%;
+}

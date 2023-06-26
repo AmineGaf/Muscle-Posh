@@ -1,0 +1,106 @@
+
+
+header{
+    background-color: black;
+    padding: 5px;
+    text-align: center;
+    position: fixed ;
+    width: 100%;
+    z-index: 1;
+    top: 0px;
+    left: 0px;
+        
+    
+}
+header h1{
+    color: white;
+    border: 8px solid white;
+    padding: 6px 12px;
+    display: inline-block;
+    border-radius: 10px;
+}
+ .box .icon
+{
+    color: black;
+    min-width: 40px;
+    height: 40px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    font-size: 22px;
+    position: fixed;
+    top: 40px;
+    left: 30px;
+    text-decoration: none;
+}
+body
+{
+    background-color: #ADD8E6;
+    
+}
+body .title
+{
+    position: relative;
+    top: 140px;
+    left: 20px;
+}
+
+nav ul
+{
+    position: relative;
+    top: 130px; 
+    
+      
+}
+nav ul li{ 
+    width: 45%;
+    display: inline-block;
+    text-align: center;
+    background-color: rgba(243, 243, 243, 0.781);
+    
+   
+}
+nav ul
+{
+    text-align: center;
+    font-size: large;
+}
+nav ul li img
+{
+    width: 60%;
+    border-radius: 8px;
+}
+nav ul li .creatine
+{
+    width: 50%;
+    height: 264px;
+}
+nav ul li 
+{
+    height: 428px;
+}
+nav ul li a
+{
+    text-decoration: none;
+    
+}
+nav .second li img
+{
+    width: 40%;
+    
+}
+nav .third li img
+{
+    width: 40%;
+}
+nav .third li .multi
+{
+    height: 280px;
+}
+nav .third .casein
+{
+    position: relative;
+    bottom: 17px;
+}

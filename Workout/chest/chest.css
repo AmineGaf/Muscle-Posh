@@ -1,0 +1,221 @@
+
+
+header{
+    background-color: black;
+    padding: 5px;
+    text-align: center;
+    position: fixed ;
+    width: 100%;
+    z-index: 1;
+    top: 0px;
+    left: 0px;
+        
+    
+}
+
+header h1{
+    color: white;
+    border: 8px solid white;
+    padding: 6px 12px;
+    display: inline-block;
+    border-radius: 10px;
+}
+ .box .icon
+{
+    color: black;
+    min-width: 40px;
+    height: 40px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    font-size: 22px;
+    position: fixed;
+    top: 40px;
+    left: 30px;
+    text-decoration: none;
+}
+body
+{
+    background-image: url("/Muscle Posh/Workout/img/799406.jpg");
+}
+.banner .chest p
+{
+    color: black;
+}
+.banner .chest h2
+{
+    color: black;
+    text-decoration: underline;
+}
+.banner .chest
+{
+    position: relative;
+    top: 150px;
+    text-align: center;
+    margin: 10px;
+    font-size: 18px;
+   
+}
+.banner .chest h2{
+    position: relative;
+    left :-600px;
+    top: 60px;
+    font-family: Arial;
+    font-size: 28px;
+    
+   
+  
+
+}
+.banner .Bench-press
+{
+    position: relative;
+    top: 200px;
+    left: 20px;
+    margin: 50px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #F4F4F4;
+    padding: 40px 20px;
+}
+.banner .first
+{
+   width: 50%;
+   position: relative;
+}
+.banner .first1
+{
+    width: 60%;
+}
+.banner .Bench-press .images
+{
+    width: 110%;
+    position: relative;
+    left: -100px;
+}
+.Bench-press h1{
+    color: rgb(11, 13, 97);
+}
+.Bench-press p{
+    text-align: center;
+}
+.images
+{
+    text-align: center;
+    margin: 80px 0px;
+    white-space: nowrap;
+}
+.images li{
+    display: inline-block;
+    width: 40%;
+    margin: 20px 5%;
+}
+.images li img{
+    max-width: 100%;
+}
+.images .second
+{
+    width: 60%;
+
+}
+.Incline-press
+{
+    position: relative;
+    top: 180px;
+    left: 20px;
+    margin: 50px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #F4F4F4;
+    padding: 40px 20px;
+    
+
+}
+.Incline-press h1
+{
+    color: rgb(15, 17, 117);
+}
+.Incline-press .press2
+{
+    width: 50%;
+}
+.Machine-Press 
+{
+    position: relative;
+    top: 120px;
+    left: 20px;
+    margin: 50px;
+    margin-top: 90px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #F4F4F4;
+    padding: 60px 20px;
+
+}
+.Machine-Press h1
+{
+    color: rgb(15, 17, 117);
+}
+.Machine-Press .fourth
+{
+    width: 45%;
+}
+
+.Push-Up
+{
+    position: relative;
+    top: 100px;
+    left: 20px;
+    margin: 50px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #F4F4F4;
+    padding: 40px 20px;
+
+}
+.Push-Up .fifth
+{
+    width: 50%;
+}
+.Push-Up .fifth1
+{
+    width: 80%;
+    height: 380px;
+
+}
+.Push-Up h1
+{
+    color: rgb(15, 17, 117);
+}
+
+.crossover
+{
+    position: relative;
+    top: 80px;
+    left: 20px;
+    margin: 50px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #F4F4F4;
+    padding: 40px 20px;
+
+}
+.crossover .crossover1
+{
+    width: 45%;
+}
+.crossover .crossover2
+{
+    width: 90%;
+}
+.crossover .crossover3
+{
+    width: 230%;
+    height: 400px;
+}
+.crossover h1
+{
+    color: rgb(15, 17, 117);
+}

@@ -1,0 +1,122 @@
+body ,ul ,li ,h1 ,h2 ,a{
+    margin: 0px;
+    padding: 0px;
+    font-family: arial;
+}
+
+header{
+    background-color: black;
+    padding: 5px;
+    text-align: center;
+    position: fixed ;
+    width: 100%;
+    z-index: 1;
+    top: 0px;
+    left: 0px;
+        
+    
+}
+header h1{
+    color: white;
+    border: 8px solid white;
+    padding: 6px 12px;
+    display: inline-block;
+    border-radius: 10px;
+}
+.title .box .icon
+{
+    color: black;
+    min-width: 40px;
+    height: 40px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    font-size: 20px;
+    position: fixed;
+    top: 20px;
+    left: 30px;
+    text-decoration: none;
+}
+.banner{
+    position: relative;
+}
+.images
+{
+    position: relative;
+    top: 10px;
+    left: -80px;  
+    max-width: 100%;
+    width: 1420px;
+    margin: 80px auto;
+    padding: 0px 40px;
+    box-sizing: border-box;
+    white-space: nowrap;
+    max-width: 1460px;
+}
+
+.images li{
+    
+    
+    display: inline-block;
+
+}
+.images .a
+{
+    width: 100%;
+   height: 442px;
+    
+}
+.images .b
+{
+    width: 100%;
+}
+.images .c
+{
+    width: 100%;
+}
+.images .d
+{
+    width: 100%;
+}
+.images .e
+{
+    width: 100%;
+}
+.main-nav {
+    padding: 0px;
+    position: relative;
+    top: -40px;
+    left: 10px;
+}
+.main-nav ul{
+    
+    white-space: nowrap;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+nav li{ 
+    width: 22%;
+    display: inline-block;
+    font-size: 24px;
+
+}
+nav li a{
+    text-decoration: none;
+    color: black;
+}
+nav li a:hover{
+    color:rgb(90, 89, 89);
+    text-decoration: underline;
+    
+    
+}
+footer{
+    background: black;
+    color: black;
+    padding: 5px;
+    text-align: center;
+    
+}

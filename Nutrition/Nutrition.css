@@ -1,0 +1,85 @@
+
+
+header{
+    background-color: black;
+    padding: 5px;
+    text-align: center;
+    position: fixed ;
+    width: 100%;
+    z-index: 1;
+    top: 0px;
+    left: 0px;
+        
+    
+}
+header h1{
+    color: white;
+    border: 8px solid white;
+    padding: 6px 12px;
+    display: inline-block;
+    border-radius: 10px;
+}
+ .box .icon
+{
+    color: black;
+    min-width: 40px;
+    height: 40px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    font-size: 22px;
+    position: fixed;
+    top: 40px;
+    left: 30px;
+    text-decoration: none;
+}
+body
+{
+    background-color: #ADD8E6;
+    
+}
+nav ul
+{
+    position: relative;
+    top: 130px;
+    
+    
+}
+nav ul li{ 
+    width: 45%;
+    display: inline-block;
+    text-align: center;
+    
+   
+}
+nav ul
+{
+    text-align: center;
+    font-size: xx-large;
+    
+}
+nav ul li img
+{
+    width: 100%;
+    position: relative;
+    top: 40px;
+    border-radius: 8px;
+}
+nav ul li .diet_img
+{
+    height: 428px;
+}
+nav ul li a
+{
+    text-decoration: none;
+    
+}
+nav ul li a:hover
+{
+    background-color: #9292db;
+    text-decoration:underline;
+    color: #ADD8E6;
+}
+

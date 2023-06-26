@@ -1,0 +1,200 @@
+
+
+header{
+    background-color: black;
+    padding: 5px;
+    text-align: center;
+    position: fixed ;
+    width: 100%;
+    z-index: 1;
+    top: 0px;
+    left: 0px;
+        
+    
+}
+header h1{
+    color: white;
+    border: 8px solid white;
+    padding: 6px 12px;
+    display: inline-block;
+    border-radius: 10px;
+}
+ .box .icon
+{
+    color: black;
+    min-width: 40px;
+    height: 40px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    font-size: 22px;
+    position: fixed;
+    top: 40px;
+    left: 30px;
+    text-decoration: none;
+}
+body
+{
+    background-image: url("/Muscle Posh/Workout/img/799406.jpg");
+}
+.banner .legs p
+{
+    color: rgb(0, 0, 0);
+}
+.banner .legs h2
+{
+    color: #000000;
+    text-decoration: underline;
+}
+
+.banner .legs
+{
+    position: relative;
+    top: 150px;
+    text-align: center;
+    margin: 10px;
+    font-size: 18px;
+   
+}
+.banner .legs h2{
+    position: relative;
+    left :-580px;
+    top: 60px;
+    font-family: Arial;
+    font-size: 28px;
+
+
+}
+.banner .Barbell-Squat
+{
+    position: relative;
+    top: 200px;
+    left: 20px;
+    margin: 50px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #F4F4F4;
+    padding: 40px 20px;
+}
+.Barbell-Squat h1{
+    color: rgb(11, 13, 97);
+}
+.Barbell-Squat p{
+    text-align: center;
+}
+.Barbell-Squat .Barbell-Squat1
+{
+    width: 50%;
+}
+.images
+{
+    text-align: center;
+    margin: 80px 0px;
+    white-space: nowrap;
+}
+.images li{
+    display: inline-block;
+    width: 40%;
+    margin: 20px 5%;
+}
+.images li img{
+    max-width: 100%;
+}
+.images .second
+{
+    width: 60%;
+
+}
+.Lunge
+{
+    position: relative;
+    top: 180px;
+    left: 20px;
+    margin: 50px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #F4F4F4;
+    padding: 40px 20px;
+    
+
+}
+.Lunge h1
+{
+    color: rgb(15, 17, 117);
+}
+.Lunge .Lunge1
+{
+    width: 50%;
+}
+.Leg-Press
+{
+    position: relative;
+    top: 120px;
+    left: 20px;
+    margin: 50px;
+    margin-top: 90px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #F4F4F4;
+    padding: 60px 20px;
+
+}
+.Leg-Press .Leg-Press1
+{
+    width: 50%;
+
+}
+.Leg-Press .Leg-Press2
+{
+    height: 320px;
+}
+
+.Leg-Press h1
+{
+    color: rgb(15, 17, 117);
+}
+
+.leg-extension
+{
+    position: relative;
+    top: 100px;
+    left: 20px;
+    margin: 50px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #F4F4F4;
+    padding: 40px 20px;
+
+}
+.leg-extension h1
+{
+    color: rgb(15, 17, 117);
+}
+.leg-extension .leg-extension1
+{
+    width: 50%;
+}
+.Leg-Curl
+{
+    position: relative;
+    top: 80px;
+    left: 20px;
+    margin: 50px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #F4F4F4;
+    padding: 40px 20px;
+
+}
+.Leg-Curl .Leg-Curl1
+{
+    width: 50%;
+}
+
+.Leg-Curl h1
+{
+    color: rgb(15, 17, 117);
+}
+
